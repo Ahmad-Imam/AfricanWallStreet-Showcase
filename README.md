@@ -1,6 +1,6 @@
 # African WallStreet-Showcase
 
-A Flutter application to see all the businesses owned by Africans. User can create business and services on the app. There's also a premium service and paid features (Stripe). It takes user's location and shows nearby services around him. User can also search for any services
+A Flutter application to see all the businesses owned by Africans. User can create business and services on the app. There's also a premium service and paid features (Stripe). At first it takes user's location and shows nearby services around him. User can also search for any services. The app can be used without creating an account to view the businesses
 
 
 # Application Overview
